@@ -16,9 +16,9 @@
 name: Kaleem Ullah
 role: Computer Engineering Student
 university: NUST Pakistan
-focus: ["Machine Learning", "Web Development", "AI"]
+focus: ["Cybersecurity", "Machine Learning", "Web Development", "AI"]
 current_learning: "Data Structures & Algorithms"
-interests: ["Deep Learning", "SaaS Development", "Cybersecurity"]
+interests: ["Deep Learning", "Cybersecurity", "SaaS Development"]
 collaboration: "Semester Projects Web Projects"
 motto: "Code. Learn. Innovate. Repeat."
 ```
